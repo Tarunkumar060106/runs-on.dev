@@ -10,6 +10,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": ["vc-domain-verify=tarunkumar.runs-on.dev,10dec54b344d2076998b"]
-    },
+    }
+  },
   "country": "IN"
 }
